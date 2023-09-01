@@ -71,7 +71,29 @@ Feel free to fork the project, open issues, or submit pull requests. All contrib
 
 ## Task List
 
-... (same as before)
+- [ ] Setup the basic Go project structure.
+- [ ] Integrate the `cobra` library for command-line parameter handling.
+- [ ] Implement the self-updating feature:
+  - [ ] Check for the latest version of IgniteShift.
+  - [ ] Check for the latest version of Cosmos SDK.
+  - [ ] Prompt the user for upgrades if available.
+- [ ] Implement the installation feature:
+  - [ ] Fetch the desired Cosmos SDK version.
+  - [ ] Install the fetched version at the default location.
+- [ ] Implement the removal feature:
+  - [ ] Identify the version to be removed.
+  - [ ] Remove the selected version.
+- [ ] Implement the upgrade feature:
+  - [ ] Check for the latest Cosmos SDK version.
+  - [ ] Upgrade to the latest version if not already installed.
+- [ ] Implement version management:
+  - [ ] List all available Cosmos SDK versions.
+  - [ ] Indicate which versions are currently installed.
+- [ ] Implement on-the-fly version switching:
+  - [ ] Allow users to switch between different installed versions.
+- [ ] Write comprehensive tests for each feature.
+- [ ] Document usage instructions in the README.
+- [ ] Publish the first release.
 
 ## License
 
