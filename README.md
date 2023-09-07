@@ -14,7 +14,7 @@ TODO: Add badges
     [![Go Reference](https://pkg.go.dev/badge/github.com/AndrewDonelson/IgniteShift.svg)](https://pkg.go.dev/github.com/AndrewDonelson/IgniteShift)
     [![GitHub release (latest by date)](https://img.shields.io/github/v/release/AndrewDonelson/IgniteShift)](--)
 
-**IgniteShift** is a powerful command-line tool designed to assist developers in managing their Cosmos SDK installations. A nod to the Cosmos-SDK command-line tool, Ignite, IgniteShift emphasizes the ability to seamlessly switch between different Cosmos SDK versions.
+**IgniteShift** is a powerful command-line tool designed to assist developers in managing their Cosmos SDK installations. Ignite, IgniteShift emphasizes the ability to seamlessly switch between different Cosmos SDK versions.
 
 ## Features
 
